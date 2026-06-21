@@ -1,0 +1,8 @@
+﻿l_english:
+
+ #decision
+ change_capital_decision_category:0 "Decisions Expanded: §YChange/Move Capital§!"
+ change_capital_decision_category_desc:0 "Use these decisions to move your capital to another owned and controlled core state."
+ change_capital_state_hide:0 "§RHide§! §YMove Capital§! decisions"
+ change_capital_state_show:0 "§GShow§! §YMove Capital§! decisions"
+ change_capital_state_on_map:0 "Move our §CCapital State§! to §Y[From.GetName]§!"

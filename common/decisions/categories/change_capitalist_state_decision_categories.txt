@@ -1,0 +1,6 @@
+change_capital_decision_category = {
+	icon = GFX_decision_category_SOV_merge_designers
+	priority = 100 # IEF: Keep Decisions Expanded categories above vanilla categories.
+
+	allowed = { always = yes }
+}
